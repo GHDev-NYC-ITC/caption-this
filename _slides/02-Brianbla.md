@@ -5,7 +5,7 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-Brianbla's Caption
+Brianbla's Caption add additional text
 
 ![herme-t-crabb](https://octodex.github.com/images/herme-t-crabb.png)
 {: .center}
