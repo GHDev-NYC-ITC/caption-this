@@ -1,9 +1,9 @@
-# GitHub for Developers
+## GitHub for Developers
 
-- Class Date: February 6 - 7, 2023
-- Facilitator: @Brianbla
+--- Class Date: February 6 - 7, 2023
+---- Facilitator: @Brianbla--
 
-## Class Resources
+--## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -33,7 +33,7 @@
 
 #### GitHub Documentation and Help
 
-- [GitHub Webcasts](https://resources.github.com/webcasts/)
+- [GitHub Webcasts](https://resources.github.com/web/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
 - [GitHub Help Documentation](https://help.github.com/)
 - [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
